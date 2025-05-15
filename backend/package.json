@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Git Clone",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Vaageisha Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^11.1.0",
+    "yargs": "^17.7.2"
+  }
+}
